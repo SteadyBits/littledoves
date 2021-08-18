@@ -1,0 +1,136 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Little Doves School International"
+      content : "We completely care because every child matters to us ECM 2008. Their bright future is our mission"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Little Doves School International"
+      content : "We provide the highest standard of care and education for pre-school and primary school children."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Little Doves School International"
+      content : "A warm welcome to Little Doves school where every child is valued and celebrated."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Little Doves School International"
+      content : "We offer quality early childhood education programmes for children aged 2 – 10. Our school proudly adheres to the highest standards of education and caregiving."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Little Doves School International"
+      content : "Our dedicated staff is committed to providing a supporting environment where your child can thrive."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "British (EYFS) and Nigerian Curriculum"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "We provide teaching following the British Early Years Foundation Stage framework and the Nigerian curricula for basic education"
+
+    # feature item loop
+    - name : "Saturday remediation school programme"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "A organise special remediation programmes to address learning gaps by reteaching basic skills"
+
+    # feature item loop
+    - name : "Character education & Tech"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "We offer charater education drawn from theories established in the academic literature. Every child a reader! We also teach coding to kids..."
+
+    # feature item loop
+    - name : "Others..."
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Dad’s zone, Baby stay + play for young mothers, Baby massage, Breastfeeding training"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "Head Teachers Message"
+  image : "images/about/about-us.jpg"
+  content : "
+I welcome you all to little doves school Oke-Aro. We are a privately owned school
+ set in a quiet, serene and conducive environment. We pride ourselves on being 
+ a blossoming and reputable school where children learn differently. At Little 
+ doves school, we are passionate about offering an exciting, stimulating and rich
+  curriculum based on real life situations.  We believe that every child should have the opportunity to meet their potential whilst developing academic, creative, social, God-given talents which would enable them to achieve a happy and prosperous life."
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Why We Stand Out"
+  content : "
+• LOW STUDENT-TEACHER RATION: Low ratios to enable teachers better understand your child as a unique person and to adapt learning activities to meet individual needs
+
+
+• KEY WORKER SYSTEM: The key work has a primary responsibility for the child’s wellbeing on a daily basis while ensuring that information concerning the child is shared with parents
+
+
+• PARTNER FOR BUSY PARENT: We operate extended hours for busy parents with additional cost
+
+Our educational programmes that recognize and accept the uniqueness of each child.
+"
+  # video link
+  video_link : "#"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Gallery"
+  # event item comes from "content/**/event" folder.
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.
