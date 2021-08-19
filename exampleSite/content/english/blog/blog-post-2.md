@@ -1,5 +1,5 @@
 ---
-title: "End of Year Celebration"
+title: "End of year celebration"
 date: 2021-07-06T15:27:17+06:00
 draft: false
 # page title background image

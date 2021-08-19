@@ -1,5 +1,5 @@
 ---
-title: "School Resumption"
+title: "School resumption"
 date: 2021-07-06T15:27:17+06:00
 draft: false
 # page title background image

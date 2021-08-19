@@ -65,14 +65,14 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "British (EYFS) and Nigerian Curriculum"
+    - name : "British (EYFS) and Nigerian curriculum"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "We provide teaching following the British Early Years Foundation Stage framework and the Nigerian curricula for basic education"
 
     # feature item loop
     - name : "Saturday remediation school programme"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "A organise special remediation programmes to address learning gaps by reteaching basic skills"
+      content : "We organise special remediation programmes to address learning gaps by reteaching basic skills"
 
     # feature item loop
     - name : "Character education & Tech"
@@ -108,13 +108,13 @@ success_story:
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Why We Stand Out"
   content : "
-• LOW STUDENT-TEACHER RATION: Low ratios to enable teachers better understand your child as a unique person and to adapt learning activities to meet individual needs
+• LOW STUDENT-TEACHER RATIO: Low ratios to enable teachers better understand your child as a unique person and to adapt learning activities to meet individual needs.
 
 
-• KEY WORKER SYSTEM: The key work has a primary responsibility for the child’s wellbeing on a daily basis while ensuring that information concerning the child is shared with parents
+• KEY WORKER SYSTEM: The key work has a primary responsibility for the child’s wellbeing on a daily basis while ensuring that information concerning the child is shared with parents.
 
 
-• PARTNER FOR BUSY PARENT: We operate extended hours for busy parents with additional cost
+• PARTNER FOR BUSY PARENT: We operate extended hours for busy parents with additional cost.
 
 Our educational programmes that recognize and accept the uniqueness of each child.
 "
