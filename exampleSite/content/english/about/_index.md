@@ -17,6 +17,6 @@ You will do well to visit us to see first-hand, how exciting the learning experi
 Ms Christy
 
 
-## ABOUT OUR JOURNY
+## ABOUT OUR JOURNEY
 Little doves school was borne out of a passion to support the learning and development of children. The school is headed by its proprietress Mrs C.C Echere, an experienced and devoted educator with many years of classroom and leadership education in the United Kingdom and Nigeria. She is a qualified and UK certified EYFS professional alongside possessing certificates in education psychology from Oxford Brooks University, a national teaching certificate in both the UK and Nigeria. She also holds a B.Sc. in Banking and Finance. She is a SEN coordinator [ which she is very passionate about] and an educational consultant to many schools in Lagos and Ogun State. She operates a ‘Baby stay + play’ on Wednesdays for young mothers and also holds a session every Saturday morning for fathers and their children [Dad’s zone]
 
